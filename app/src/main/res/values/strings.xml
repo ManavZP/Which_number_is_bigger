@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Which Number is Bigger</string>
+    <string name="number1">0</string>
+    <string name="number2">1</string>
+    <string name="textView_main_prompt">Which Number is Bigger?</string>
+    <string name="main_score">Score: </string>
+</resources>
